@@ -1,7 +1,5 @@
 """
-Name:  Amogh Kalyan
-Email: (amogh.kalyan44@myhunter.cuny.edu)
-Title: The 3 R’s: Repair and Revolve Recycling. 
+Name:  Amogh Kalyan 
 Resources: https://data.cityofnewyork.us/Environment/Recycling-Diversion-and-Capture-Rates/gaq9-z3hz
 https://www.nj.gov/dep/dshw/recycling/stat_links/2018finalreport.pdf
 https://www.tceq.texas.gov/downloads/permitting/waste-permits/waste-planning/docs/187-21.pdf
