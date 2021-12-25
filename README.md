@@ -1,4 +1,4 @@
-# Recycling Rates Data
+# Comparing Recycling Rates within Datasets
 
 
 The main objective of this project is to compare NYC recycling rates to other cities across the U.S. The analysis and visualizations allow for a better understanding of how New York City recycles. Within this project, I will be able to showcase how NYC recycling rates compared to other cities and counties around the United States.
@@ -8,15 +8,18 @@ When choosing the locations, I was hoping to find one state that would have grea
 
 ## Website
 
-Click on the website to take a look at the website built for this project!
+Click on the website to take a look at the project! 
+
+*(Website includes data analysis for datasets, visualizations made for comparisons, and code used.)*
 
 https://kalyanamogh7.wixsite.com/mysite
+
 
 # Built With
 
 Python, Python Libraries:
 
-matplotlib, pyplot, numpy.
+matplotlib, pandas, pyplot.
 
 wix.com for website integration.
 
