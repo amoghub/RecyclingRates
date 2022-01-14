@@ -1,25 +1,34 @@
-# Comparing Recycling Rates within Datasets
+# Recycling Rates
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/80735346/149575453-507adb36-e1b3-4537-9f1f-2ea23e6f419c.jpg"
+</p>
+  
+<p align="center">
+Recycling Rates is a project that compares a New York City (NYC) OpenData dataset that contains recycling rates to other OpenData datasets from cities across the United States. I was able to make analysis' and visualizations that allowed a reader to have a better understanding of how NYC recycles. 
+</p>
 
 
-The main objective of this project is to compare NYC recycling rates to other cities across the U.S. The analysis and visualizations allow for a better understanding of how New York City recycles. Within this project, I will be able to showcase how NYC recycling rates compared to other cities and counties around the United States.
+## Code and Website
 
-## Structure
-When choosing the locations, I was hoping to find one state that would have great recycling laws and one that is neighboring NYC so that we could accurate comparisons. I decided to use Austin, Texas, and Trenton, New Jersey as my two locations. They were the perfect match that I was looking for, Texas having great laws and New Jersey being the neighboring state.
+<p align="center">
+All analysis' and visualizations were put onto a website for readers to view. Please take a look at each tab on the website, as it shows my process throughout the project and gives a great insight to how the visualizations were made. The code is also posted here on github for viewing purposes.
+</p>
 
-## Website
+<p align="center">
+Click on the link below to view the website!
+</p>
 
-Click on the website to take a look at the project! 
-
-*(Website includes data analysis for datasets, visualizations made for comparisons, and code used.)*
-
+<p align="center">
 https://kalyanamogh7.wixsite.com/mysite
-
+</p>
 
 # Built With
 
-Python, Python Libraries:
+Python. Python Libraries:
 
-matplotlib, pandas, pyplot.
+- matplotlib
+- pandas
+- pyplot.
 
 wix.com for website integration.
 
